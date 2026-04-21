@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=NetC1_N Pin=C1-N
+Added Pin To Net: NetName=NetC1_P Pin=C1-P
+Added Pin To Net: NetName=NetC1_N Pin=C2-1
+Added Pin To Net: NetName=NetC1_N Pin=C2-2
+Added Pin To Net: NetName=NetC1_N Pin=C3-1
+Added Pin To Net: NetName=NetC1_N Pin=C3-2
+Added Pin To Net: NetName=NetC1_N Pin=C4-1
+Added Pin To Net: NetName=NetC1_N Pin=C4-2
+Added Member To Class: ClassName=Schematic F450 Member=Component C1 C01
+Added Member To Class: ClassName=Schematic F450 Member=Component C2 C02
+Added Member To Class: ClassName=Schematic F450 Member=Component C3 C03
+Added Member To Class: ClassName=Schematic F450 Member=Component C4 C04
+Added Room: Name=Schematic F450

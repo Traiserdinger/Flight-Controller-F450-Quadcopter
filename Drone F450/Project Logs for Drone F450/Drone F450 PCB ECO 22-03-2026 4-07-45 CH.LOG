@@ -1,0 +1,51 @@
+Added Component: Designator=C2(CAPRR254W54L381T254H466)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C315C104K1R5TA/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C315C104K1R5TA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C315C104K1R5TA/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPRR254W54L381T254H466)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C315C104K1R5TA/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C315C104K1R5TA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C315C104K1R5TA/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPRR254W54L381T254H466)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C315C104K1R5TA/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C315C104K1R5TA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C315C104K1R5TA/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPRR254W54L381T254H466)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C315C104K1R5TA/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C315C104K1R5TA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C315C104K1R5TA/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPRR254W54L381T254H466)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C315C104K1R5TA/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C315C104K1R5TA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C315C104K1R5TA/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=+3.3 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=+3.3 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=+3.3 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=+5 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Member To Class: ClassName=Schematic F450 Member=Component C2 C02
+Added Member To Class: ClassName=Schematic F450 Member=Component C3 C03
+Added Member To Class: ClassName=Schematic F450 Member=Component C4 C04
+Added Member To Class: ClassName=Schematic F450 Member=Component C5 C05
+Added Member To Class: ClassName=Schematic F450 Member=Component C6 C06
+Added Room: Name=Schematic F450

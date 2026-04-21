@@ -1,0 +1,56 @@
+Change Component DesignItemId : Designator=C2 Old DesignItemId=0603YC104KAZ2A New DesignItemId=C315C104K1R5TA
+Change Component DesignItemId : Designator=C3 Old DesignItemId=0603YC104KAZ2A New DesignItemId=C315C104K1R5TA
+Change Component DesignItemId : Designator=C4 Old DesignItemId=0603YC104KAZ2A New DesignItemId=C315C104K1R5TA
+Change Component DesignItemId : Designator=C5 Old DesignItemId=0603YC104KAZ2A New DesignItemId=C315C104K1R5TA
+Change Component DesignItemId : Designator=C6 Old DesignItemId=0603YC104KAZ2A New DesignItemId=C315C104K1R5TA
+Change Component Footprint: Designator=C2 Old Footprint=CAPC1608X90N New Footprint=CAPRR254W54L381T254H466
+Change Component Footprint: Designator=C3 Old Footprint=CAPC1608X90N New Footprint=CAPRR254W54L381T254H466
+Change Component Footprint: Designator=C4 Old Footprint=CAPC1608X90N New Footprint=CAPRR254W54L381T254H466
+Change Component Footprint: Designator=C5 Old Footprint=CAPC1608X90N New Footprint=CAPRR254W54L381T254H466
+Change Component Footprint: Designator=C6 Old Footprint=CAPC1608X90N New Footprint=CAPRR254W54L381T254H466
+Change Component Description : Designator=C2 Old Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A New Description=315 C 100nF Ceramic Multilayer Capacitor, 100 VDC, +125degC, X7R Dielec, +/-10% | KEMET C315C104K1R5TA
+Change Component Description : Designator=C3 Old Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A New Description=315 C 100nF Ceramic Multilayer Capacitor, 100 VDC, +125degC, X7R Dielec, +/-10% | KEMET C315C104K1R5TA
+Change Component Description : Designator=C4 Old Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A New Description=315 C 100nF Ceramic Multilayer Capacitor, 100 VDC, +125degC, X7R Dielec, +/-10% | KEMET C315C104K1R5TA
+Change Component Description : Designator=C5 Old Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A New Description=315 C 100nF Ceramic Multilayer Capacitor, 100 VDC, +125degC, X7R Dielec, +/-10% | KEMET C315C104K1R5TA
+Change Component Description : Designator=C6 Old Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A New Description=315 C 100nF Ceramic Multilayer Capacitor, 100 VDC, +125degC, X7R Dielec, +/-10% | KEMET C315C104K1R5TA
+Change Component Library : Designator=C2 Old Library=Tu Gom 100nF SMD.IntLib New Library=Tu Gom 100nF.IntLib
+Change Component Library : Designator=C3 Old Library=Tu Gom 100nF SMD.IntLib New Library=Tu Gom 100nF.IntLib
+Change Component Library : Designator=C4 Old Library=Tu Gom 100nF SMD.IntLib New Library=Tu Gom 100nF.IntLib
+Change Component Library : Designator=C5 Old Library=Tu Gom 100nF SMD.IntLib New Library=Tu Gom 100nF.IntLib
+Change Component Library : Designator=C6 Old Library=Tu Gom 100nF SMD.IntLib New Library=Tu Gom 100nF.IntLib
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAPC1608X90N"; UniqueID = "\HIHLBYVI" ("\HIHLBYVI")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C315C104K1R5TA/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C315C104K1R5TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Radial Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C315C104K1R5TA/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAPC1608X90N"; UniqueID = "\ANVCAPQK" ("\ANVCAPQK")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C315C104K1R5TA/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C315C104K1R5TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Radial Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C315C104K1R5TA/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAPC1608X90N"; UniqueID = "\SIMWBSRD" ("\SIMWBSRD")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C315C104K1R5TA/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C315C104K1R5TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Radial Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C315C104K1R5TA/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAPC1608X90N"; UniqueID = "\LBTWCTAW" ("\LBTWCTAW")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C315C104K1R5TA/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C315C104K1R5TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Radial Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C315C104K1R5TA/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAPC1608X90N"; UniqueID = "\TEUXKOBR" ("\TEUXKOBR")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C315C104K1R5TA/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C315C104K1R5TA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Radial Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C315C104K1R5TA/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=Schematic F450

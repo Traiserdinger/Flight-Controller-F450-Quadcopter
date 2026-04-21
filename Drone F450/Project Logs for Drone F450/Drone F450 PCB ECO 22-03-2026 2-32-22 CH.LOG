@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=NetJ5_2 Pin=U2-1
+Added Component: Designator=C1(CAPPRD500W60D1000H1250)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEUFK1E471B/Panasonic/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEUFK1E471B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEUFK1E471B/Panasonic/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC1608X90N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/0603YC104KAZ2A/AVX/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "0603YC104KAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/0603YC104KAZ2A/AVX/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC1608X90N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/0603YC104KAZ2A/AVX/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "0603YC104KAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/0603YC104KAZ2A/AVX/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC1608X90N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/0603YC104KAZ2A/AVX/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "0603YC104KAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/0603YC104KAZ2A/AVX/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ5_1 Pin=C1-N
+Added Pin To Net: NetName=NetJ5_2 Pin=C1-P
+Added Pin To Net: NetName=NetJ5_1 Pin=C2-1
+Added Pin To Net: NetName=NetJ5_1 Pin=C2-2
+Added Pin To Net: NetName=NetJ5_1 Pin=C3-1
+Added Pin To Net: NetName=NetJ5_1 Pin=C3-2
+Added Pin To Net: NetName=NetJ5_1 Pin=C4-1
+Added Pin To Net: NetName=NetJ5_1 Pin=C4-2
+Added Pin To Net: NetName=NetJ5_1 Pin=U2-1
+Change Net Name : Old Net Name=NetJ5_1 New Net Name=NetC1_N
+Change Net Name : Old Net Name=NetJ5_2 New Net Name=NetC1_P
+Added Member To Class: ClassName=Schematic F450 Member=Component C1 C01
+Added Member To Class: ClassName=Schematic F450 Member=Component C2 C02
+Added Member To Class: ClassName=Schematic F450 Member=Component C3 C03
+Added Member To Class: ClassName=Schematic F450 Member=Component C4 C04
+Added Room: Name=Schematic F450

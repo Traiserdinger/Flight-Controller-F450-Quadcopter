@@ -1,0 +1,7 @@
+Change Net Name : Old Net Name=NetU1_3 New Net Name=SPI_MOSI
+Change Net Name : Old Net Name=NetU1_4 New Net Name=SPI_MISO
+Change Net Name : Old Net Name=NetU1_18 New Net Name=I2C_SCL
+Change Net Name : Old Net Name=NetU1_19 New Net Name=I2C_SDA
+Change Net Name : Old Net Name=NetU1_32 New Net Name=SPI_SCK
+Change Net Name : Old Net Name=NetU1_39 New Net Name=SPI_CS
+Added Room: Name=Schematic F450

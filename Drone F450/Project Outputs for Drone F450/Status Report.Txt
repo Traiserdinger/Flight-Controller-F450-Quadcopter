@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Drone F450.PrjPcb]
+   Generated File[Drone F450.TXT]
+   Generated File[Drone F450.LDP]
+   Generated File[Drone F450.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 7:23:48 SA On 23/03/2026

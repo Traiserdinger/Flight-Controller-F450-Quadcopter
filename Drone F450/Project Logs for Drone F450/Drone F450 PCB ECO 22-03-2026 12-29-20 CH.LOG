@@ -1,0 +1,13 @@
+Added Component: Designator=U4(TXS0108)
+Added Pin To Net: NetName=NetJ5_1 Pin=U4-1
+Added Pin To Net: NetName=NetJ5_1 Pin=U4-10
+Added Pin To Net: NetName=NetJ5_2 Pin=U4-11
+Added Pin To Net: NetName=NetJ5_1 Pin=U4-20
+Added Pin To Net: NetName=NetJ7_3 Pin=J7-3
+Added Pin To Net: NetName=NetJ7_3 Pin=U4-12
+Added Net: Name=NetJ7_3
+Added Pin To Net: NetName=NetU1_15 Pin=U1-15
+Added Pin To Net: NetName=NetU1_15 Pin=U4-2
+Added Net: Name=NetU1_15
+Added Member To Class: ClassName=Schematic F450 Member=Component U4 TXS0108
+Added Room: Name=Schematic F450

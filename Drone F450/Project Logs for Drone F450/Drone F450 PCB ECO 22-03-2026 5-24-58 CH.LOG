@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=NetJ6_3 New Net Name=UART_TX
+Change Net Name : Old Net Name=NetJ6_4 New Net Name=UART_RX
+Added Room: Name=Schematic F450
