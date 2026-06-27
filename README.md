@@ -1,4 +1,5 @@
 **🚁 ESP32-S3 F450 Quadcopter Flight Controller**
+
 📝 Project Overview
 An open-source flight controller firmware specifically designed for the F450 drone frame, built and optimized on the ESP32-S3 microcontroller. This project delivers a stable, Ready-to-Fly (RTF) experience with precise altitude and position hold capabilities, utilizing an advanced multi-sensor fusion approach (Optical Flow, GPS, Barometer).
 
