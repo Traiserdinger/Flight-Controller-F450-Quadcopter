@@ -29,7 +29,7 @@ Altitude Hold (Baro Hold): Smooth altitude retention utilizing BMP580 data to el
 
 Robust Communication: Deep integration of the i-Bus protocol ensures precise control and prevents the signal jitter associated with older protocols like PPM.
 
-📦 Release Notes - v1.0.0
+📦 Release Notes - v0.1.2
 [Core] Finalized the main flight control loop on the ESP32-S3.
 
 [Sensor] Successfully integrated and synchronized sensor data fusion from the ICM20948, BMP580, and MTF-02P.
